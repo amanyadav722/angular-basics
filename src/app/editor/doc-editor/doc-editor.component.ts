@@ -4,6 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-doc-editor',
   standalone: true,
   imports: [],
+  
   // templateUrl: './doc-editor.component.html',
   template: `
     <div>
@@ -23,6 +24,7 @@ import { Component } from '@angular/core';
     background-color: #90EE90;
   }
   `,
+
   // styleUrl: './doc-editor.component.scss'
 })
 export class DocEditorComponent {
